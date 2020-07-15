@@ -1,0 +1,5 @@
+.*
+!.env
+!.babelrc
+helm-chart
+node_modules
