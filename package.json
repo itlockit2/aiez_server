@@ -2,9 +2,9 @@
   "name": "wetube",
   "version": "1.0.0",
   "description": "Cloning Youtube with Vanilla and NodeJs",
-  "main": "index.js",
+  "main": "init.js",
   "author": "cccjaccck",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.10.4",
     "@babel/node": "^7.10.4",
@@ -21,5 +21,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": "https://github.com/itlockit2/aiez_server.git"
 }
